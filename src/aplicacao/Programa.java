@@ -1,10 +1,13 @@
 package aplicacao;
 
+import camadatabuleiro.Posicao;
+
 public class Programa {
 
 	public static void main(String[] args) {
      
-		System.out.println("Ola mundo");
+		Posicao pos = new Posicao(3, 5);
+		System.out.println(pos);
 	}
 
 }
