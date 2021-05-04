@@ -1,6 +1,6 @@
 package aplicacao;
 
-import camadatabuleiro.Posicao;
+
 import camadatabuleiro.Tabuleiro;
 
 public class Programa {
